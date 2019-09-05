@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.co.huntersix.spring.rest.model.PersonTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-09-05T20:12:50" hostname="Maciejs-MacBook-Air.local" time="0.01">
+  <properties/>
+  <testcase name="idsShouldBeDifferent" classname="uk.co.huntersix.spring.rest.model.PersonTest" time="0.005"/>
+  <testcase name="shouldBeDifferent" classname="uk.co.huntersix.spring.rest.model.PersonTest" time="0.0"/>
+  <testcase name="shouldAssignIdWhenCreated" classname="uk.co.huntersix.spring.rest.model.PersonTest" time="0.004"/>
+  <system-out><![CDATA[5
+6
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
